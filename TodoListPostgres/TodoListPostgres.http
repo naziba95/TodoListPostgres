@@ -1,0 +1,6 @@
+@TodoListPostgres_HostAddress = http://localhost:5110
+
+GET {{TodoListPostgres_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
